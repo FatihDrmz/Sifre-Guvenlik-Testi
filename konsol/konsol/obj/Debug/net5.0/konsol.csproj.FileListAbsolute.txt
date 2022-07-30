@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\bin\Debug\net5.0\konsol.exe
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\bin\Debug\net5.0\konsol.deps.json
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\bin\Debug\net5.0\konsol.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\bin\Debug\net5.0\konsol.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\bin\Debug\net5.0\konsol.dll
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\bin\Debug\net5.0\ref\konsol.dll
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\bin\Debug\net5.0\konsol.pdb
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\konsol.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\konsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\konsol.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\konsol.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\konsol.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\konsol.dll
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\ref\konsol.dll
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\konsol.pdb
+C:\Users\PC\Desktop\C#\Ayşenur C#\konsol\konsol\obj\Debug\net5.0\konsol.genruntimeconfig.cache
